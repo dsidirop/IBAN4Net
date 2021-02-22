@@ -5,24 +5,25 @@
     <RootNamespace>SinKien.IBAN4Net</RootNamespace>
     <AssemblyName>SinKien.IBAN4Net</AssemblyName>
     <Version>2.0.5</Version>
-    <Authors>Vaclav Beca</Authors>
+    <Authors>Dominick Sidiropoulos</Authors>
     <Description>IBAN4Net is a .NET Standard (1.2, 1.4, 2.0) and net 5.0 library for generation and validation of the International Bank Account Numbers (IBAN) and Business Identifier Codes (BIC).</Description>
-    <PackageProjectUrl>https://github.com/sinkien/IBAN4Net</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/dsidirop/IBAN4Net/tree/custom-releease/customized-with-nuget-tweaks</PackageProjectUrl>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <Copyright>Copyright 2020 Vaclav Beca [sinkien]</Copyright>
+    <Copyright>Copyright 2020 Dominick Sidiropoulos</Copyright>
     <PackageTags>iban, bic, iban4net, sepa</PackageTags>
     <RepositoryType>github</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <RepositoryUrl>https://github.com/sinkien/IBAN4Net</RepositoryUrl>
+    <RepositoryUrl>https://github.com/dsidirop/IBAN4Net/tree/custom-releease/customized-with-nuget-tweaks</RepositoryUrl>
     <PackageReleaseNotes>net5.0 support</PackageReleaseNotes>
     <AssemblyVersion>2.0.5.0</AssemblyVersion>
     <FileVersion>2.0.5.0</FileVersion>
     <PackageLicenseFile></PackageLicenseFile>
-    <PackageId>IBAN4Net</PackageId>
+    <PackageId>IBAN4Net.Custom</PackageId>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Product>SinKien.IBAN4Net.Custom</Product>
   </PropertyGroup>
 
   <ItemGroup>
